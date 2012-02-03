@@ -1,0 +1,4 @@
+[submodule "plugins/evil"]
+  path = plugins/evil
+  url = git://gitorious.org/evil/evil.git
+  ignore = untracked
